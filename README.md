@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramah Alharbi</h1>
-<h3 align="center">🔍 "Exploring the Boundless Horizons of AI: Where Curiosity Meets Innovation!" 🌌</h3>
+<h3 align="center">🔍 "Exploring the Boundless Horizons of AI, Where Curiosity Meets Innovation!" 🌌</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Hrm0LJNRkPHDkLIHz9/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramahalharbi&label=Profile%20views&color=0e75b6&style=flat" alt="ramahalharbi" /> </p>
